@@ -1,10 +1,6 @@
 # Hyundai Terracan
 
-Archivo documental del Hyundai Terracan.
-
-## Estado
-
-Archivo de consulta y documentacion. Pendiente de clasificar el contenido de los PDF por temas.
+Archivos del Terracan.
 
 ## Contenido
 
